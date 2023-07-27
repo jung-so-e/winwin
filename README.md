@@ -21,7 +21,7 @@
 - **API** : SMS API
 
 ## 📌 주요 기능
-#### 로그인 [상세보기](https://github.com/jung-so-e/winwin.wiki.git)
+#### 로그인 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90login)
 #### 회원가입
 #### 쪽지
 #### 메인페이지
