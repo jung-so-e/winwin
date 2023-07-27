@@ -21,7 +21,7 @@
 - **API** : SMS API
 
 ## 📌 주요 기능
-#### 로그인 <a href="[https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%89C(Login)](https://github.com/jung-so-e/winwin.wiki.git)" >상세보기 - WIKI 이동</a>
+#### 로그인 <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%89C(Login)" >상세보기 - WIKI 이동</a>
 
 #### 회원가입
 #### 쪽지
