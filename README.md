@@ -22,6 +22,9 @@
 
 ## 📌 주요 기능
 #### 로그인 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90login)
+- DB값 검증
+- ID찾기, PW찾기
+- 로그인 시 세션(Session) 생성
 #### 회원가입
 #### 쪽지
 #### 메인페이지
