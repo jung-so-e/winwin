@@ -25,6 +25,16 @@
 - DB값 검증
 - ID찾기, PW찾기
 - 로그인 시 세션(Session) 생성
-#### 회원가입
-#### 쪽지
-#### 메인페이지
+#### 회원가입 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90login)
+- 모달창 연결
+- SMS API 연결
+- 유효성 검사
+- 직종 선택
+- 서류 인증
+#### 쪽지 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90login)
+- 쪽지 보내기
+- 답장하기
+- 모달창으로 전체보기
+#### 메인페이지 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90login)
+- 로그인 시 헤더에 회원의 포인트 수, 닉네임 띄우기
+- 모임 게시판의 게시글을 좋아요 순으로 배치 (슬라이드)
