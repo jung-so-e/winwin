@@ -25,7 +25,7 @@
 - DB값 검증
 - ID찾기, PW찾기
 - 로그인 시 세션(Session) 생성
-#### 회원가입 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90login)
+#### 회원가입 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90join)
 - 모달창 연결
 - SMS API 연결
 - 유효성 검사
