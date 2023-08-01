@@ -35,6 +35,6 @@
 - 쪽지 보내기
 - 답장하기
 - 모달창으로 전체보기
-#### 메인페이지 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90login)
+#### 메인페이지 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90Main)
 - 로그인 시 헤더에 회원의 포인트 수, 닉네임 띄우기
 - 모임 게시판의 게시글을 좋아요 순으로 배치 (슬라이드)
