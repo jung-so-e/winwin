@@ -31,7 +31,7 @@
 - 유효성 검사
 - 직종 선택
 - 서류 인증
-#### 쪽지 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90login)
+#### 쪽지 [상세보기](https://github.com/jung-so-e/winwin/wiki/WinWin%E2%80%90Message)
 - 쪽지 보내기
 - 답장하기
 - 모달창으로 전체보기
