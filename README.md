@@ -1,5 +1,5 @@
 # SpringBoot_Project_WinWin
-**SpringBoot를 활용한 자바기반 웹개발 어쩌구 (나중에 보완)**
+**SpringBoot를 활용한 자바기반 웹개발 서비스**
 
 <br>
 
